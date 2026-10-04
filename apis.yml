@@ -39,7 +39,6 @@ apis:
   - name: Dicebear Avatars
     description: "Generate random pixel-art avatars"
     humanURL: https://avatars.dicebear.com/
-    baseURL: https://avatars.dicebear.com/
     tags:
       - Test Data
     properties:
